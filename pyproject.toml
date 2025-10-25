@@ -16,6 +16,6 @@ dependencies = [
     "modelscope",
     "munch==4.0.0",
     "loguru",
-    "WeTextProcessing; platform_machine != 'Darwin'",
+    "WeTextProcessing",
     "wetext; platform_system == 'Darwin'",
 ]
