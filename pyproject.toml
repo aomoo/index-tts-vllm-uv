@@ -16,5 +16,5 @@ dependencies = [
     "modelscope",
     "munch==4.0.0",
     "loguru",
-    "WeTextProcessing",
+    "WeTextProcessing"
 ]
