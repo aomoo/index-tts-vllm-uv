@@ -6,7 +6,7 @@ readme = "README.md"
 requires-python = "==3.10.0"
 dependencies = [
     "vllm==0.10.2",
-    "descript-audiotools==0.7.2",
+    "descript-audiotools",
     "matplotlib==3.8.2",
     "omegaconf",
     "sentencepiece",
@@ -17,5 +17,4 @@ dependencies = [
     "munch==4.0.0",
     "loguru",
     "WeTextProcessing",
-    "wetext; platform_system == 'Darwin'",
 ]
