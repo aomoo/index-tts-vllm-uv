@@ -6,8 +6,8 @@ readme = "README.md"
 requires-python = "==3.10.0"
 dependencies = [
     "vllm==0.10.2,
-    "descript-audiotools==0.7.2,
-    "matplotlib==3.8.2,
+    "descript-audiotools==0.7.2",
+    "matplotlib==3.8.2",
     "omegaconf",
     "sentencepiece",
     "librosa",
